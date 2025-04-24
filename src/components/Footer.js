@@ -4,8 +4,9 @@ import './Footer.css';
 const Footer = () => {
   return (
     <footer className="footer">
-      <p>&copy; 2025 Animal Care. All Rights Reserved.</p>
-      <p>Contact: info@animalcare.com</p>
+      <p>&copy; 2025 codingacharya. All Rights Reserved.</p>
+      <p>Contact: kandadithirupathi4@gmail.com</p>
+      <p>Blog: codingacharya.blogspot.com</p>
     </footer>
   );
 };
